@@ -1,0 +1,64 @@
+﻿@model Devel.Models.Pregunta
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Pregunta</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdPregunta)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Requerido, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Requerido, new List<SelectListItem>
+                {
+                    new SelectListItem { Text = "Sí", Value = "S" },
+                    new SelectListItem { Text = "No", Value = "N" }
+                }, "-- Seleccione --", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Requerido, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TipoCampo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.TipoCampo, new List<SelectListItem>
+                {
+                    new SelectListItem { Text = "Texto", Value = "T" },
+                    new SelectListItem { Text = "Número", Value = "N" }
+                }, "-- Seleccione --", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Requerido, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        @if (ViewData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-warning" role="alert">
+                @ViewData["ErrorMessage"]
+            </div>
+        }
+        <div class=
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+</div>
+    }

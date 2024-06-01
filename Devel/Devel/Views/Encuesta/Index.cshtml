@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Devel.Models.Encuesta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista Encuestas</h2>
+<div >
+    @Html.ActionLink("Nueva Encuesta", "Create", null ,new { @class = "btn btn-success" })
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdEncuesta }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Detalles", "Details", new { id = item.IdEncuesta }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.IdEncuesta }, new { @class = "btn btn-danger" })
+                @Html.ActionLink("Compartir", "Compartir", new { id = item.IdEncuesta }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Ver Respuestas", "Ver", new { idEncuesta = item.IdEncuesta }, new { @class = "btn btn-primary" })
+
+
+            </td>
+        </tr>
+    }
+
+</table>

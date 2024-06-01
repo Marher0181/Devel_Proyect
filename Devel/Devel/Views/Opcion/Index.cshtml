@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Devel.Models.Opcion>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Opciones</h2>
+
+<p>
+    @Html.ActionLink("Crear opciones", "Create", null, new { @class = "btn btn-success" })
+    @Html.ActionLink("Volver a Preguntas", "Index", "Pregunta", null, new { @class = "btn btn-secondary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Texto)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Texto)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdOpcion }, new { @class = "btn btn-warning" }) 
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.IdOpcion }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>

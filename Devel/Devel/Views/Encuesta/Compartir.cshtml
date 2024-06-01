@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Compartir Encuesta";
+}
+
+<h2>Compartir Encuesta</h2>
+
+<p>Copia el siguiente enlace para compartir la encuesta:</p>
+<p>
+    <a href="@ViewData["Link"]">@ViewData["Link"]</a>
+</p>
+
+
+<p>
+    @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })
+</p>

@@ -1,0 +1,44 @@
+﻿@model List<Devel.Models.Pregunta>
+
+@{
+    ViewBag.Title = "Responder Encuesta";
+}
+
+<h2>@ViewBag.EncuestaTitulo</h2>
+
+@using (Html.BeginForm("GuardarRespuestas", "Encuesta", FormMethod.Post))
+{
+    int idEncuesta = ViewBag.IdEncuesta != null ? Convert.ToInt32(ViewBag.IdEncuesta) : 0;
+    @Html.Hidden("IdEncuesta", idEncuesta)
+    List<int> lista = new List<int>();
+
+    for (int i = 0; i < Model.Count; i++)
+    {
+        var pregunta = Model[i];
+
+
+        lista.Add(pregunta.IdPregunta);
+
+
+        <div class="form-group">
+            <label>@pregunta.Descripcion</label>
+            @Html.Hidden("respuestas[" + i + "].IdPregunta", pregunta.IdPregunta)
+            @if (pregunta.TipoCampo == "T")
+            {
+                <input type="text" name="respuestas[@i].Respuesta" class="form-control" />
+            }
+            else if (pregunta.TipoCampo == "N")
+            {
+                <input type="number" name="respuestas[@i].Respuesta" class="form-control" />
+            }
+        </div>
+
+    }
+
+    foreach (var idPregunta in lista)
+    {
+        <input type="hidden" name="idPreguntas" value="@idPregunta" />
+    }
+
+    <button type="submit" class="btn btn-primary">Enviar Respuestas</button>
+}

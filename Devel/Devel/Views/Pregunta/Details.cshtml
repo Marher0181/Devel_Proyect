@@ -1,0 +1,38 @@
+﻿@model Devel.Models.Pregunta
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles de la pregunta</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Requerido)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Requerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoCampo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TipoCampo)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Opciones", "Index", "Opcion", new { id = Model.IdPregunta }, new { @class = "btn btn-info" })
+    @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })
+
+</div>

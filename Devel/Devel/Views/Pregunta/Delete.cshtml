@@ -1,0 +1,43 @@
+﻿@model Devel.Models.Pregunta
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Estas seguro de eliminar esta pregunta?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Requerido)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Requerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoCampo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TipoCampo)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-primary" /> 
+            @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>

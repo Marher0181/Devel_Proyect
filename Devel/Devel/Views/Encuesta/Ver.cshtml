@@ -1,0 +1,23 @@
+﻿@model List<Devel.Models.Pregunta>
+
+@{
+    ViewBag.Title = "Ver Respuestas";
+}
+
+<h2>Respuestas de la Encuesta</h2>
+
+@foreach (var pregunta in Model)
+{
+    <h4>Pregunta:</h4>
+    <div class="pregunta">
+        <h5>@pregunta.Descripcion</h5>
+        <ul>
+            @foreach (var respuesta in pregunta.Respuestas)
+            {
+                <li>@respuesta.Respuesta</li>
+            }
+        </ul>
+    </div>
+
+}
+@Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })

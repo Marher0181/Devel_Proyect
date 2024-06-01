@@ -1,0 +1,825 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Devel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\encuesta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\opcion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\opcion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\opcion\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\opcion\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\opcion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\opcion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\opcion\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\opcion\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\opcion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\opcion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\pregunta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\pregunta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\pregunta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\pregunta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\pregunta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\pregunta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\pregunta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\pregunta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\pregunta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\pregunta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\encuesta\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\encuesta\\compartir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\compartir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\encuesta\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\encuesta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\encuesta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\encuesta\\responder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\responder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\encuesta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\encuesta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\encuesta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\respuestaprecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\respuestaprecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\models\\respuestaenc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\models\\respuestaenc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\models\\respuestapre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\models\\respuestapre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|c:\\users\\pc\\source\\repos\\devel\\devel\\controllers\\preguntacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\preguntacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\opcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\opcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\respuestaenccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\respuestaenccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\permisos\\validarsesionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\permisos\\validarsesionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestapre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestapre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestapre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestapre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestapre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestapre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestapre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestapre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestapre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestapre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestaenc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestaenc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestaenc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestaenc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestaenc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestaenc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestaenc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestaenc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\views\\respuestaenc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\views\\respuestaenc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\models\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\models\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|C:\\Users\\PC\\source\\repos\\Devel\\devel\\content\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CC28F36-64E4-4F03-997C-87576801ED58}|Devel\\Devel.csproj|solutionrelative:devel\\content\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ver.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Ver.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Ver.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Ver.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Ver.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T08:04:26.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Create.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Opcion\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Create.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Opcion\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:14:40.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Opcion\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Delete.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Opcion\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:15:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Opcion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Opcion\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:14:25.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Opcion\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Edit.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Opcion\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:14:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Details.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Opcion\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Opcion\\Details.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Opcion\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:15:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Create.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Create.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:03:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Create.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Pregunta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Create.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Pregunta\\Create.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:12:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Pregunta\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Delete.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Pregunta\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:13:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Details.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Pregunta\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Details.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Pregunta\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:13:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Pregunta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Edit.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Pregunta\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:13:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Pregunta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Pregunta\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Pregunta\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T10:55:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Gracias.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Gracias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T04:25:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compartir.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Compartir.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Compartir.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Compartir.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Compartir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T00:26:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:16:29.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Edit.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:03:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Delete.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:04:17.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Details.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Details.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:04:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T10:34:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Acceso\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Acceso\\Registrar.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T22:45:06.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T05:00:26.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EncuestaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\EncuestaController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\EncuestaController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\EncuestaController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\EncuestaController.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAkwPwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:00:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RespuestaPreController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\RespuestaPreController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\RespuestaPreController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\RespuestaPreController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\RespuestaPreController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:39:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RespuestaPre.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\RespuestaPre.cs",
+              "RelativeDocumentMoniker": "Devel\\Models\\RespuestaPre.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\RespuestaPre.cs",
+              "RelativeToolTip": "Devel\\Models\\RespuestaPre.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:37:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RespuestaEnc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\RespuestaEnc.cs",
+              "RelativeDocumentMoniker": "Devel\\Models\\RespuestaEnc.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\RespuestaEnc.cs",
+              "RelativeToolTip": "Devel\\Models\\RespuestaEnc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:59:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Pregunta.cs",
+              "RelativeDocumentMoniker": "Devel\\Models\\Pregunta.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Pregunta.cs",
+              "RelativeToolTip": "Devel\\Models\\Pregunta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:58:46.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:39:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PreguntaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\PreguntaController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\PreguntaController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\PreguntaController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\PreguntaController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:46:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OpcionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\OpcionController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\OpcionController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\OpcionController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\OpcionController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAMwIAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:39:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RespuestaEncController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\RespuestaEncController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\RespuestaEncController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\RespuestaEncController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\RespuestaEncController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:39:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ValidarSesionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Permisos\\ValidarSesionAttribute.cs",
+              "RelativeDocumentMoniker": "Devel\\Permisos\\ValidarSesionAttribute.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Permisos\\ValidarSesionAttribute.cs",
+              "RelativeToolTip": "Devel\\Permisos\\ValidarSesionAttribute.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:09:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Devel\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Devel\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:02:07.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T22:21:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaPre\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Delete.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaPre\\Delete.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:17:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaEnc\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Delete.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaEnc\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:20:04.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaPre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaPre\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:20:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Create.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaPre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Create.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaPre\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:20:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaPre\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Edit.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaPre\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:02:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Details.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaPre\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaPre\\Details.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaPre\\Details.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:17:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaEnc\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Details.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaEnc\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:19:54.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaEnc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Edit.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaEnc\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:19:42.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaEnc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Create.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaEnc\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:19:04.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\RespuestaEnc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\RespuestaEnc\\Index.cshtml",
+              "RelativeToolTip": "Devel\\Views\\RespuestaEnc\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:18:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Encuesta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Encuesta.cs",
+              "RelativeDocumentMoniker": "Devel\\Models\\Encuesta.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Encuesta.cs",
+              "RelativeToolTip": "Devel\\Models\\Encuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:44:27.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Devel\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Models\\Usuario.cs",
+              "RelativeToolTip": "Devel\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:40:30.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginCss.css",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Content\\Css\\LoginCss.css",
+              "RelativeDocumentMoniker": "Devel\\Content\\Css\\LoginCss.css",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Content\\Css\\LoginCss.css",
+              "RelativeToolTip": "Devel\\Content\\Css\\LoginCss.css",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-30T22:31:24.307Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ace410e5-d6f6-46cd-9eae-2cf360ef45ac",
+        "Display": 0,
+        "X": 445,
+        "Y": 73,
+        "Width": 949,
+        "Height": 569,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Responder.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Responder.cshtml",
+              "RelativeDocumentMoniker": "Devel\\Views\\Encuesta\\Responder.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Devel\\Devel\\Views\\Encuesta\\Responder.cshtml",
+              "RelativeToolTip": "Devel\\Views\\Encuesta\\Responder.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:27:06.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

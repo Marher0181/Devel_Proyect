@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Devel.Models.Pregunta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado Preguntas de la Encuesta</h2>
+
+<p>
+    @Html.ActionLink("Añadir pregunta", "Create", null, new { @class = "btn btn-success" })
+    @Html.ActionLink("Volver", "Index", "Encuesta", null, new { @class = "btn btn-secondary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Requerido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoCampo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Requerido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoCampo)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdPregunta }, new { @class = "btn btn-warning" }) 
+                @Html.ActionLink("Detalles", "Details", new { id = item.IdPregunta }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.IdPregunta }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
